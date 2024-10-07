@@ -166,6 +166,4 @@ Contributions are welcome! If you find bugs or have ideas for new features, feel
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-This **README** provides a comprehensive overview of your chatbot project, including setup instructions, key features, and how users can contribute. Feel free to modify this template according to your project's specifics!
